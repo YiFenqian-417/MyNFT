@@ -1,0 +1,26 @@
+{
+    "name": "My NFT",
+    "description": "NFT Demo",
+    "image": "https://raw.githubusercontent.com/kasoqian/HassanNFT/main/metadata/images/badge.png",
+    "attributes": [{
+            "trait_type": "health",
+            "value": 0
+        },
+        {
+            "trait_type": "power",
+            "value": 0
+        },
+        {
+            "trait_type": "magic",
+            "value": 0
+        },
+        {
+            "trait_type": "exp",
+            "value": 0
+        },
+        {
+            "trait_type": "lv",
+            "value": "S"
+        }
+    ]
+}
