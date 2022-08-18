@@ -1,7 +1,7 @@
 {
     "name": "My NFT",
     "description": "NFT Demo",
-    "image": "https://raw.githubusercontent.com/kasoqian/HassanNFT/main/metadata/images/badge.png",
+    "image": "https://github.com/YiFenqian-417/MyNFT/blob/dev/res/images/1.jpg",
     "attributes": [{
             "trait_type": "health",
             "value": 0
