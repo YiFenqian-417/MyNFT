@@ -1,0 +1,26 @@
+{
+    "name": "My NFT",
+    "description": "NFT No.2",
+    "image": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202009%2F24%2F20200924191908_ff5ab.thumb.1000_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1679276868&t=01a4c0550f6b215a1a2fb5b8d98c1ea9",
+    "attributes": [{
+            "trait_type": "health",
+            "value": 0
+        },
+        {
+            "trait_type": "power",
+            "value": 0
+        },
+        {
+            "trait_type": "magic",
+            "value": 0
+        },
+        {
+            "trait_type": "exp",
+            "value": 0
+        },
+        {
+            "trait_type": "lv",
+            "value": "S"
+        }
+    ]
+}
